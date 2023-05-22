@@ -1,0 +1,7 @@
+Build your Azure infrastructure with Pulumi on Typescript:
+
+DevOps Project Url:
+https://dev.azure.com/LazhGlobalAzureOrg/IaCwithPulumi
+
+SlideShare Url:
+https://www.slideshare.net/LakshmanS10/build-your-azure-infrastructure-with-pulumi-on-typescript
